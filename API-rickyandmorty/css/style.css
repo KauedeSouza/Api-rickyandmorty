@@ -1,0 +1,42 @@
+/* style.css */
+
+/* Estilos para a tabela */
+#itemTable {
+    border-collapse: collapse;
+    width: 70%;
+    margin-top: 150px;
+    margin-left: 240px;
+}
+
+#itemTable th, #itemTable td {
+    border: 0.5px solid rgb(195, 225, 248);
+    padding: 10px;
+    text-align: center;
+    border-radius:3px; 
+}
+
+#itemTable th {
+    background-color: #0885ac;
+}
+
+#itemTable tr:nth-child(even) {
+    background-color: #91d5e5;
+}
+
+#itemTable tr:hover {
+    background-color: rgb(158, 241, 237);
+}
+
+#itemTable tr{
+    background-color: rgb(87, 177, 172);
+}
+
+#itemTable thead tr th {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(132, 180, 235);
+}
