@@ -40,3 +40,36 @@
 body {
     background-color: rgb(132, 180, 235);
 }
+select{
+    color: #0885ac;
+    border-radius: 15px;
+    padding: 10px;
+    border-color: #0885ac;
+}
+
+input{
+    color: #0885ac;
+    border-radius: 15px;
+    padding: 10px;
+    border-color: #0885ac;
+}
+
+label{
+    font-size: 19px;
+
+}
+
+button{
+    background-color: rgb(5, 83, 151);
+    color: aliceblue;
+    border-radius: 15px;
+    padding: 10px;
+    width: 100px;
+}
+
+ select option {
+    color: #0885ac;
+    border-radius: 25px;
+    padding: 10px;
+    border-color: #0885ac;
+}
